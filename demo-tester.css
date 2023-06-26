@@ -1,0 +1,19 @@
+/* div {
+    background-color: blue;
+} */
+
+.class-selector-name {
+
+}
+
+#first-div > p {
+    background-color: red;
+}
+
+main {
+    border: green 4px solid;
+    margin: 100px;
+    padding: 200px;
+    width: 1000px;
+    box-sizing: border-box;
+}
