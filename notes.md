@@ -40,3 +40,10 @@ Remember:
 ### Box Sizing Properties 
     - Make the element 1000px wide, show how the total width of the box model is now much wider than 1000px.
     - Add `box-sizing: border-box` and show how all the parts of the box model now fit within our defined width. 
+### Float
+    - Put the `img` at the top of the `p` tag with the text
+
+
+## Demo
+
+### Keep your console open the whole time for consistent screen size. 
